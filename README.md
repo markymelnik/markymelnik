@@ -1,4 +1,8 @@
-![Github Banner](https://github.com/markymelnik/markymelnik/assets/106692238/3998f3e5-d907-4f05-8ed4-584e3ec92013)
+![Github Banner](https://github.com/markymelnik/markymelnik/assets/106692238/4ff7429e-311d-4245-a27e-0c544618354c)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/markmelnik)
+[![Website](https://img.shields.io/badge/Website-2c8a4e?style=for-the-badge&logo=react&logoColor=white)](https://markmelnik.com)
+[![Resume](https://img.shields.io/badge/Resume-0055ff?style=for-the-badge&logo=adobeacrobatreader)](https://markmelnik.com/mark-melnik-resume.pdf)
 
 ### Hello!
 
