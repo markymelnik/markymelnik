@@ -1,4 +1,10 @@
-### Hi there 👋
+![Github Banner](https://github.com/markymelnik/markymelnik/assets/106692238/3998f3e5-d907-4f05-8ed4-584e3ec92013)
+
+### Hello!
+
+I am a Full Stack Developer from New York City 🗽.
+
+Check out [my website](https://markmelnik.com) to learn more!
 
 <!--
 **markymelnik/markymelnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
